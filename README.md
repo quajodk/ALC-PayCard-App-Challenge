@@ -1,7 +1,7 @@
 # ALC-PayCard-App-Challenge
 Solution to ALC Challenge
 
-#Details
+# Details
 A simple pay card app that :
 1. changes ui according to card type => visa or mastercard
 2. validate credit card number using Luhn algo
